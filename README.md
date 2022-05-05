@@ -20,4 +20,4 @@ Para construção deste projeto foram usados apenas HTML e CSS.
 
 **GitHub Pages**
 
-- [Link para o projeto publicado no GitHub Pages](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
+- [Link para o projeto publicado no GitHub Pages](https://hainaha.github.io/web_project_3_ptbr/)
