@@ -1,0 +1,17 @@
+.intro {
+  color: #ffffff;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 600px) and (max-width: 1024px) {
+  .intro {
+    width: 94vw;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 599px) {
+  .intro {
+    width: 90vw;
+  }
+}
