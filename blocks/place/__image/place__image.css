@@ -3,4 +3,15 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  margin: 0;
+  /*Não consegui identificar a margem a que você se referiu, tentei simular aqui
+  e não achei, você poderia ser mais específica, por favor? Onde está a margem,
+  ela é superior, inferior, lateral?
+  Se você estiver falando do grid-gap de 30px, eu peço que me oriente, porque no figma
+  não há nenhuma padronização das margens entre os elementos, mas o valor que mais
+  se repete é 30px, por isso coloquei esse valor no gap.
+  Em relação ao seu comentário do layout quebrar perto de 600px, você também poderia
+  ser mais específica, por favor? Não consegui visualizar essa quebra aqui. O que é
+  "imagem fica pixada"? A qual imagem você se refere? Qual é a sugestão para resolver
+  o problema, criar outro intervalo nos medias? Ou alterar o intervalo?*/
 }

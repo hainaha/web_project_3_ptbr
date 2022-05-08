@@ -11,14 +11,14 @@
     "button text";
 }
 
+.place:last-of-type {
+  margin-bottom: 92px;
+}
+
 @media screen and (min-width: 600px) and (max-width: 1024px) {
   .place {
     margin: 0 0 72px;
     grid-gap: 48px 28px;
-  }
-
-  .place:last-of-type {
-    margin: 0 0 92px;
   }
 }
 
@@ -34,5 +34,8 @@
       "image"
       "text"
       "button";
+  }
+  .place:last-of-type {
+    margin-bottom: 64px;
   }
 }
